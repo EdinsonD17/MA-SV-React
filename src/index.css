@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-900 text-slate-50 font-body;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading uppercase font-bold;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center gap-2 px-7 py-3 text-base font-semibold uppercase rounded transition-all duration-300 font-body border-2 border-transparent no-underline cursor-pointer;
+  }
+  
+  .btn-primary {
+    @apply bg-amber-500 text-slate-900 hover:bg-amber-600 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-amber-500/40;
+  }
+  
+  .btn-outline {
+    @apply border-slate-50 text-slate-50 bg-transparent hover:bg-slate-50 hover:text-slate-900 hover:-translate-y-0.5;
+  }
+  
+  .container {
+    @apply max-w-7xl mx-auto px-5;
+  }
+}
