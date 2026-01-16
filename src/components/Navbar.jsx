@@ -55,7 +55,7 @@ const Navbar = () => {
                             <span className="absolute bottom-0 left-0 h-0.5 bg-amber-500 transition-all duration-300 w-0 hover:w-full"></span>
                         </Link>
                     ))}
-                    <a href="https://wa.me/51999999999" target="_blank" className="btn btn-primary text-sm px-5 py-2">
+                    <a href="https://wa.me/51930705419" target="_blank" className="btn btn-primary text-sm px-5 py-2">
                         <Phone size={16} /> Agendar Cita
                     </a>
                 </nav>
@@ -80,7 +80,7 @@ const Navbar = () => {
                         {link.name}
                     </Link>
                 ))}
-                <a href="https://wa.me/51999999999" target="_blank" className="btn btn-primary mt-4">
+                <a href="https://wa.me/51930705419" target="_blank" className="btn btn-primary mt-4">
                     <Phone size={20} /> Agendar Cita
                 </a>
             </div>

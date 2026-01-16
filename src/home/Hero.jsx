@@ -31,7 +31,7 @@ const Hero = () => {
                     </p>
 
                     <div className="flex flex-wrap gap-4 mb-12">
-                        <a href="https://wa.me/51999999999?text=Hola,%20quisiera%20cotizar%20una%20reparaci%C3%B3n" target="_blank" className="btn btn-primary text-base px-8 py-4">
+                        <a href="https://wa.me/51930705419?text=Hola,%20quisiera%20cotizar%20una%20reparaci%C3%B3n" target="_blank" className="btn btn-primary text-base px-8 py-4">
                             <MessageCircle size={20} /> Cotizar Reparación
                         </a>
                         <a href="#services" className="btn btn-outline text-base px-8 py-4">
