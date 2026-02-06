@@ -30,7 +30,7 @@ const Footer = () => {
                             <li><Link to="/" className="hover:text-amber-500 transition-colors">Inicio</Link></li>
                             <li><Link to="/servicios" className="hover:text-amber-500 transition-colors">Servicios</Link></li>
                             <li><Link to="/contacto" className="hover:text-amber-500 transition-colors">Contacto</Link></li>
-                            <li><a href="https://wa.me/51930705419" target="_blank" className="hover:text-amber-500 transition-colors">Agendar Cita</a></li>
+                            <li><a href="https://wa.me/51972621001" target="_blank" className="hover:text-amber-500 transition-colors">Agendar Cita</a></li>
                         </ul>
                     </div>
 
@@ -44,7 +44,7 @@ const Footer = () => {
                             </li>
                             <li className="flex items-center gap-3 justify-center md:justify-start">
                                 <Phone size={20} className="text-amber-500 shrink-0" />
-                                <span>+51 930 705 419</span>
+                                <span>+51 972 621 001</span>
                             </li>
                             <li className="flex items-center gap-3 justify-center md:justify-start">
                                 <Clock size={20} className="text-amber-500 shrink-0" />
