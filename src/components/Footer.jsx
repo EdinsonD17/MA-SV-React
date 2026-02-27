@@ -14,10 +14,10 @@ const Footer = () => {
                             Su taller de confianza en Cajamarca. Especialistas en mecánica, electricidad y electrónica automotriz.
                         </p>
                         <div className="flex gap-4 justify-center md:justify-start">
-                            <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-amber-500 hover:text-slate-900 transition-all text-slate-300">
+                            <a href="https://www.facebook.com/profile.php?id=61587123542649" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-amber-500 hover:text-slate-900 transition-all text-slate-300">
                                 <Facebook size={20} />
                             </a>
-                            <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-amber-500 hover:text-slate-900 transition-all text-slate-300">
+                            <a href="https://www.instagram.com/mecatronicaautomotrizms/" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-amber-500 hover:text-slate-900 transition-all text-slate-300">
                                 <Instagram size={20} />
                             </a>
                         </div>
