@@ -23,7 +23,7 @@ const Home = () => {
                     <p className="text-slate-300 text-lg mb-8 max-w-2xl mx-auto">
                         No espere a que un ruido extraño se convierta en una reparación costosa. Agende su diagnóstico hoy mismo.
                     </p>
-                    <a href="https://wa.me/51999999999" target="_blank" className="btn btn-primary text-lg px-10 py-4 shadow-xl hover:shadow-amber-500/20">
+                    <a href="https://wa.me/51972621001" target="_blank" className="btn btn-primary text-lg px-10 py-4 shadow-xl hover:shadow-amber-500/20">
                         <MessageCircle size={24} /> Contactar Ahora
                     </a>
                 </div>
